@@ -1,6 +1,6 @@
 # TO DO LIST APP USING CONSOLE
 ### Very simple to use. Just have to interact with the menu.
-### Scroll using the arrow keys. Go into option pressing "ENTER". Follow the steps inside each option.
+### Scroll using the arrow keys. Go into an option pressing "ENTER". Follow the steps inside each option.
 ```
 What would you like to do?
  (Use arrow keys)
